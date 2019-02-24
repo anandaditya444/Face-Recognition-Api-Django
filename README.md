@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # facial-recognition-python-django
 Face detection and facial recognition along with recognized persons information fetched from database.
 
@@ -22,3 +23,7 @@ Run -
 
 Demo Video
 https://www.youtube.com/watch?v=p70srlZvyvQ&feature=youtu.be
+=======
+# Face-Recognition-Api-Django
+Running Django server
+>>>>>>> 22de40a9b470245aac10472f5859fea5d29f04b8
