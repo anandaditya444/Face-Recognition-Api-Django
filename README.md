@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=p70srlZvyvQ&feature=youtu.be
 # Face-Recognition-Api-Django
 Running Django server
 >>>>>>> 22de40a9b470245aac10472f5859fea5d29f04b8
+>>>>>>> sdasf343423434243afdfdwer3324322345dsgsd4r32
